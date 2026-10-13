@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm 舒凝谦👋
 
-<!--
-**shuqian82/shuqian82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨💻 关于我
+- 🔭 目前在做：<抖音直播：数码桌搭、时尚饰品、自媒体>
+- 🌱 正在学习：<Codex opencode 这两个智能体合作>
+- 💬 可以问我：<不会代码 0 基础 会用剪辑软件，会直播，出镜和不出镜都行，能自己简单拍摄镜头然后根据脚本自己去配音>
+- 📫 联系我：<417798989@qq.com>
 
-Here are some ideas to get you started:
+## 🛠 技能
+`剪映` `Photoshop` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 我的 GitHub
+- 用户名：@shuqian82
